@@ -1,1 +1,1 @@
-token_wthr = 'your_token'
+token_wthr = '9fde828f9b4776837b2e5de2c993c46d'
